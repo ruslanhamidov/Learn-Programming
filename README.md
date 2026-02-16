@@ -12,13 +12,13 @@
 
 
 
-- Understand how everything in CS works [cs101](https://web.stanford.edu/class/cs101/index.html) / [course-version](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
-- Computer Science crash course is best way to learn about what is inside of computers and get a big picture [Youtube Playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=zpGM977dDm0zt8Vt)
-- Stanford Code in Place - Learn Python and Computational thinking by helping little robot do tasks [link](https://codeinplace.stanford.edu)
+- Understand how everything in CS works [CS101](https://web.stanford.edu/class/cs101/index.html) / [course-version](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
+- [Computer Science crash course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=zpGM977dDm0zt8Vt) is best way to learn about what is inside of computers and get a big picture
+- [Stanford Code in Place](https://codeinplace.stanford.edu) - Learn Python and Computational thinking by helping little robot do tasks
 
 ### LEVEL 2
 
-- I don't know a better teacher than David Malan and better way to learn CS than CS50 [link](https://cs50.harvard.edu/x/)
+- I don't know a better teacher than David Malan and better way to learn CS than [CS50](https://cs50.harvard.edu/x/)
 - Best book to start from roots to all the way up to abstraction - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 - Get the big picture with Computer Science Distilled by Wladston Ferreira
 
