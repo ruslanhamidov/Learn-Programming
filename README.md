@@ -3,8 +3,8 @@
 <p><i>notes and advices</i></p>
 
 <p><b>Most useful approach for newbies is to learn how Computers work and what CS does. Learn what is computation</b> </p>
-<p>Don't rush!</p>
-<p>Read books</p>
+<p><b>Don't rush!</b></p>
+<p><b>Read books</b></p>
 
 ## Introduction to Computer Science
 
