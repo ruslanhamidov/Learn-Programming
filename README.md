@@ -1,5 +1,27 @@
 # Learn Programming
 
+<p><i>notes and advices</i></p>
+
+<p><b>Most useful approach for newbies is to learn how Computers work and what CS does. Learn what is computation</b> </p>
+<p>Don't rush!</p>
+<p>Read books</p>
+
+## Introduction to Computer Science
+
+### LEVEL 1: Stanford courses are best for starters
+
+
+
+- Understand how everything in CS works [cs101](https://web.stanford.edu/class/cs101/index.html) / [course-version](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
+- Computer Science crash course is best way to learn about what is inside of computers and get a big picture [Youtube Playlist](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=zpGM977dDm0zt8Vt)
+- Stanford Code in Place - Learn Python and Computational thinking by helping little robot do tasks [link](https://codeinplace.stanford.edu)
+
+### LEVEL 2
+
+- I don't know a better teacher than David Malan and better way to learn CS than CS50 [link](https://cs50.harvard.edu/x/)
+- Best book to start from roots to all the way up to abstraction - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+- Get the big picture with Computer Science Distilled by Wladston Ferreira
+
 ## Web-Development
 
 ### Begin with HTML CSS to learn about basic structure of web pages
