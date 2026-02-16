@@ -12,7 +12,7 @@
 
 
 
-- Understand how everything in CS works [CS101](https://web.stanford.edu/class/cs101/index.html) / [course-version](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
+- [CS101](https://web.stanford.edu/class/cs101/index.html) - Understand how everything in CS works  / [course-version](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101)
 - [Computer Science crash course](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=zpGM977dDm0zt8Vt) is best way to learn about what is inside of computers and get a big picture
 - [Stanford Code in Place](https://codeinplace.stanford.edu) - Learn Python and Computational thinking by helping little robot do tasks
 
