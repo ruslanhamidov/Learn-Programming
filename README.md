@@ -18,7 +18,7 @@
 
 ### LEVEL 2
 
-- I don't know a better teacher than David Malan and better way to learn CS than [CS50](https://cs50.harvard.edu/x/)
+- [CS50](https://cs50.harvard.edu/x/) - I don't know a better teacher than David Malan and better way to learn CS than
 - Best book to start from roots to all the way up to abstraction - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 - Get the big picture with Computer Science Distilled by Wladston Ferreira
 
